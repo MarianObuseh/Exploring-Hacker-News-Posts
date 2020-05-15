@@ -10,5 +10,5 @@ I'll compare these two types of posts to determine the following:
 -MO
 
 NB: NO SPECIALIZED MODULES OR LIBRARIES WERE USED FOR THIS PROJECT. 
-It was meant to touch on knowledge of basic and intermediate python for Data Science 
+It was meant to touch on knowledge of basic Python for Data Science 
 
