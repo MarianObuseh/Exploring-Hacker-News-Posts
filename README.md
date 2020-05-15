@@ -7,3 +7,8 @@ I'll compare these two types of posts to determine the following:
 1. Do Ask HN or Show HN receive more comments on average?
 2. Do posts created at a certain time receive more comments on average?
 
+-MO
+
+NB: NO SPECIALIZED MODULES OR LIBRARIES WERE USED FOR THIS PROJECT. 
+It was meant to touch on knowledge of basic and intermediate python for Data Science 
+
